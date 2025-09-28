@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Brink</h1>
+<h1 align="left">Hi 👋, I'm Siri-inthira</h1>
 <h3 align="left">A Data Analyst Bangkok</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=binkyblanc&label=Profile%20views&color=0e75b6&style=flat" alt="binkyblanc" /> </p>
