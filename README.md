@@ -1,14 +1,13 @@
 <h1 align="left">Hi 👋, I'm Binx</h1>
-<h3 align="left">A passionate UX UI Designer from Bangkok</h3>
+<h3 align="left">A Data Analyst Bangkok</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=binkyblanc&label=Profile%20views&color=0e75b6&style=flat" alt="binkyblanc" /> </p>
 
-- 💡 I’m currently learning **UX Design and Frontend Development**: design thinking, user centric, visual design, hci
+- 💡 I’m currently practicing **Data Analytics** methods: with PowerBI and/or, Tableau
 
 - 📫 How to reach me **binkdaylight@outlook.com**
 
-- 🧠 I'm also working on **UX Research** by providing Data Analysis & Visualization
-      using Tableau/PowerBI and Python...while addressing psychological and market concerns
+- 🧠 I'm also learning **Data Science and Machine Learning** by using Python...while addressing psychological and market concerns
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
