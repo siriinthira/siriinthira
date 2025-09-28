@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=binkyblanc&label=Profile%20views&color=0e75b6&style=flat" alt="binkyblanc" /> </p>
 
-- 💡 I’m currently practicing **Data Analytics** methods: with PowerBI and/or, Tableau
+- 💡 I’m currently practicing **Data Analytics** project: with PowerBI and/or, Tableau
 
 - 📫 How to reach me **binkdaylight@outlook.com**
 
